@@ -17,7 +17,7 @@ getgenv().Multiplier = -0.27
 
 
 local Config = {
-    WindowName = "Aylin.Private",
+    WindowName = "Aylins Private.. aylin#8552 for premium x more toggles",
 	Color = Color3.fromRGB(71,183,118),
 	Keybind = Enum.KeyCode.RightShift
 }
