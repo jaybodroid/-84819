@@ -230,7 +230,7 @@ spawn(
 	end
 )
 
-local script = loadstring(game:HttpGet("https://pastebin.com/raw/QDCD408j"))()
+local script = loadstring(game:HttpGet("https://raw.githubusercontent.com/jaybodroid/testing/main/test"))()
 done = true
 if (passed < 3) then
 print("noob")
@@ -273,7 +273,7 @@ getgenv().Multiplier = -0.27
 
 
 local Config = {
-    WindowName = "Aylins Private.. aylin#8552 for premium x more toggles",
+    WindowName = "Aylins Private.. aylin#8552 for premium",
 	Color = Color3.fromRGB(71,183,118),
 	Keybind = Enum.KeyCode.RightShift
 }
